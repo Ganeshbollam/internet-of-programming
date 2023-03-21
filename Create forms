@@ -1,0 +1,16 @@
+<html>
+<form>
+<head>
+</head>
+<body>
+<h1>name:</h1>
+<input type="text" ></input>
+<h2>gender:</h2>
+<input type="radio" >male</input>
+<input type="radio" >female</input>.<br>
+<h2>department:</h2>
+<br><select name="dropdown" size="6">
+<option value="it">information tectnology</option>
+<option value="cse">computer science</option>
+<option value="MECH">mechanical</option>    </body>
+</html>
